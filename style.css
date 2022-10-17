@@ -1,0 +1,26 @@
+.main{
+    background: url("./image1.jpg");
+    background-size: cover;
+    height: 100%;
+    color: #fff;    
+}
+.heading-h2{
+    background-color: rgba(113, 214, 55, 0.6);
+    height: 72px;
+    border-radius: 20px;
+}
+
+.right-para{
+    background-color: rgba(135, 206, 250,0.6);
+    /* margin-left: 10px; */
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.left-para{
+    background-color: rgba(104, 153, 243, 0.6);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
